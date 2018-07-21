@@ -7,4 +7,4 @@ Javascript
 </pre>
 <br/>
 <hr/>
-참고사이트 - [facebook-developer-instagramAPI](http://developers.facebook.com/docs/instagram-api/getting-started)
+참고사이트 - [페이스북 개발자 인스타API](http://developers.facebook.com/docs/instagram-api/getting-started)
