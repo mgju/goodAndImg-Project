@@ -6,6 +6,5 @@ API.Document
 Javascript
 </pre>
 <br/>
-<hr/>
-참고사이트 - 
+<hr/> 
 [인스타API](http://developers.facebook.com/docs/instagram-api/getting-started)
