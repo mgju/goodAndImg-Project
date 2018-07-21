@@ -5,6 +5,4 @@
 API.Document
 Javascript
 </pre>
-<br/>
-<hr/> 
 [instarAPI](https://developers.facebook.com/products/instagram)
