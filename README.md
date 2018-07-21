@@ -7,4 +7,4 @@ Javascript
 </pre>
 <br/>
 <hr/> 
-[인스타API](http://developers.facebook.com/docs/instagram-api/getting-started)
+[instarAPI](developers.facebook.com/docs/instagram-api/getting-started)
